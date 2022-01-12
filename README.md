@@ -2,17 +2,16 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> Protfolio
 
-![screenshot](./app_screenshot.png)
+![Screenshot 2022-01-12 at 17 55 47](https://user-images.githubusercontent.com/92875711/149164717-6243bd62-36f5-4c4e-a818-635ac4f079f3.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
 ## Live Demo
 
@@ -28,32 +27,23 @@ Additional description about the project and its features.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- A text editor (eg. VScode)
+- Node package
 
-### Setup
+### Run project test in your local environment.
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+To get the copy of this project on your local machine, please go ahead and follow the steps below:
+- Open your terminal
+- clone the project from the source repository by running run: git clone https://github.com/Berucan/Portfolio.git.
+- Open the use the live server extension for vscode or index.html file in the browser.
 
 ## Authors
 
-👤 **Author1**
+👤 **Berucan Daisy**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Berucan](https://github.com/Berucan)
+- Twitter: [@daisyberucan](https://twitter.com/home?lang=en)
+- LinkedIn: [Daisy Berucan](https://www.linkedin.com/in/daisy-berucan-07949814b/)
 
 ## 🤝 Contributing
 
