@@ -4,7 +4,7 @@
 
 > Protfolio
 
-![Screenshot 2022-01-12 at 17 55 47](https://user-images.githubusercontent.com/92875711/149164717-6243bd62-36f5-4c4e-a818-635ac4f079f3.png)
+![screenshot](./Screenshot.png)!
 
 Additional description about the project and its features.
 
@@ -12,6 +12,8 @@ Additional description about the project and its features.
 
 - HTML
 - CSS
+- Figma
+
 
 ## Live Demo
 
